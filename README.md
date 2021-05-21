@@ -4,8 +4,10 @@ I'm Taha!
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning C#
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahakocal)](https://github.com/tahakocal/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahakocal&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahakocal&layout=compact&theme=merko)](https://github.com/tahakocal/github-readme-stats)
 
 
 
