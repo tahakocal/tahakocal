@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Taha!
 
-- 👀 I’m interested in software development
+
 - 🌱 I’m currently learning C#
 
 
