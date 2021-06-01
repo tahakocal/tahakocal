@@ -12,7 +12,6 @@ I'm Taha!
   <a href="https://www.instagram.com/tahakocal/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
   <a href="https://www.twitter.com/tahakocal/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
   <a href="https://discordapp.com/users/276379793166172161"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-  <a href="https://stackoverflow.com/users/12888105/zafer-%c3%87al%c4%b1%c5%9fkan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 </p>
 
