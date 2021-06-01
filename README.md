@@ -4,6 +4,21 @@ I'm Taha!
 
 - 🌱 I’m currently learning C#
 
+## Contact me
+<p>
+  <a href="mailto:tahakocalgs@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+  <a href="mailto:tahakocalgs@hotmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
+  <a href="https://www.linkedin.com/in/tahakocal/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.instagram.com/tahakocal/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <a href="https://www.twitter.com/tahakocal/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a href="https://discordapp.com/users/276379793166172161"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
+  <a href="https://stackoverflow.com/users/12888105/zafer-%c3%87al%c4%b1%c5%9fkan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+</p>
+
+<br/>
+<br/>
+
 ## 🛠 Technologies & Tools 
 <p align="left"> 
 <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -31,10 +46,6 @@ I'm Taha!
                                                                                                                                                     
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=tahakocal.tahakocal" alt="tahakocal" /> </p>
 
-Contact with me via these platforms!
-
-<a href="https://www.linkedin.com/in/mehmet-taha-k-4398021ba/" target="_blank" rel="nofollow"><img alt="Taha's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:tahakocalgs@gmail.com" target="_blank" rel="nofollow"><img alt="Taha's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <!---
 tahakocal/tahakocal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
