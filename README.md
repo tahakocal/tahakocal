@@ -35,7 +35,7 @@ I'm Taha!
 
 
 <p align="center">
-  <img align="center"  src="https://github-profile-trophy.vercel.app/?username=tahakocal&no-frame=true&theme=juicyfresh"> 
+  <img align="center"  src="https://github-profile-trophy.vercel.app/?username=tahakocal&no-frame=true&&theme=juicyfresh&margin-w=20"> 
 </p>
 
 
@@ -47,8 +47,12 @@ I'm Taha!
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tahakocal&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true"" alt="tahakocal" />
 </p>
                                                                                                                                                     
-<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=tahakocal.tahakocal" alt="tahakocal" /> </p>
 
+<p align="left">
+  <a href="#">
+      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tahakocal&countColor=F4D03E "/>
+   </a>
+</p>
 
 <!---
 tahakocal/tahakocal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
