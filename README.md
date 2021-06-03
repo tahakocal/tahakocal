@@ -31,16 +31,20 @@ I'm Taha!
 <a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://img.shields.io/badge/VS_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs" style="vertical-align:top margin:6px 4px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top margin:6px 4px"> </a>  
 </p>
+
+
+
 <p align="center">
-  <img align="center"  src="https://github-profile-trophy.vercel.app/?username=tahakocal&no-frame=true&column=7&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&margin-w=15"> 
+  <img align="center"  src="https://github-profile-trophy.vercel.app/?username=tahakocal&no-frame=true&theme=juicyfresh"> 
+</p>
+
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahakocal&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true"" alt="tahakocal" /
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahakocal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact" alt="tahakocal" /
-</p>
- 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahakocal&show_icons=true&theme=dracula&include_all_commits=true" alt="tahakocal" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahakocal&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true"" alt="tahakocal" />
 </p>
                                                                                                                                                     
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=tahakocal.tahakocal" alt="tahakocal" /> </p>
