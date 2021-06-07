@@ -52,9 +52,9 @@ I'm Taha!
   <a href="#">
       <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tahakocal&countColor=F4D03E "/>
    </a>
-</p>
+</p> 
 
-<!---
+<!----
 tahakocal/tahakocal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---->
