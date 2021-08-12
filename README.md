@@ -50,7 +50,7 @@ I'm Taha!
 
 <p align="left">
   <a href="#">
-      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tahakocal&countColor=F4D03E "/>
+      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tahakocal"/>
    </a>
 </p> 
 
