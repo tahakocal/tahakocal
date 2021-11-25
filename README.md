@@ -2,7 +2,7 @@
 I'm Taha!
 
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# & HTML & CSS
 
 ## Contact me
 <p>
