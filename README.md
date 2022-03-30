@@ -42,7 +42,7 @@ I'm Taha!
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahakocal&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true"" alt="tahakocal" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=s&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true"" alt="tahakocal" />
 </p>
                                                                                                                                                     
 
