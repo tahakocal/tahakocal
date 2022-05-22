@@ -2,7 +2,7 @@
 I'm Taha!
 
 
-- 🌱 I’m currently learning C# & HTML & CSS
+- 🌱 I’m currently learning C# ASP.NET
 
 ## Contact me
 <p>
@@ -30,21 +30,24 @@ I'm Taha!
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top margin:6px 4px"> </a>  
 </p>
 
-
+## 📊GitHub Stats :
 
 <p align="center">
-  <img align="center"  src="https://github-profile-trophy.vercel.app/?username=tahakocal&no-frame=true&&theme=juicyfresh&margin-w=20"> 
+  <img align="center"  src="https://github-profile-trophy.vercel.app/?username=tahakocal&theme=algolia&no-frame=true&no-bg=true&margin-w=4"> 
 </p>
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahakocal&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true"" alt="tahakocal" /
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahakocal&theme=yeblu&hide_border=true&include_all_commits=false&count_private=true" alt="tahakocal" /
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahakocal&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true"" alt="tahakocal" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahakocal&theme=yeblu&hide_border=true" alt="tahakocal" />
 </p>
-                                                                                                                                                    
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahakocal&theme=yeblu&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="tahakocal" />
+</p>                                                                                                                                              
 
 <p align="left">
   <a href="#">
