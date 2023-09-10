@@ -1,8 +1,5 @@
 ### Hi there 👋
-I'm Taha!
-
-
-- 🌱 I’m currently learning C# ASP.NET
+I'm Taha! I'm Backend Developer.
 
 ## Contact me
 <p>
