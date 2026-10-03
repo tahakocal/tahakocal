@@ -4,7 +4,7 @@
 
 ### Full-Stack & Mobile Developer
 
-Building production-ready products across **backend, web & mobile.**
+Building production-ready products with **.NET, Go, React & React Native.**
 
 <br/>
 
@@ -14,8 +14,8 @@ Building production-ready products across **backend, web & mobile.**
 <a href="https://www.linkedin.com/in/tahakocal/">
   <img src="https://img.shields.io/badge/LinkedIn-Taha_Koçal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:tahakocalgs@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://tahakocal.dev/blog">
+  <img src="https://img.shields.io/badge/Blog-Engineering_Notes-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
 
 </div>
@@ -24,15 +24,12 @@ Building production-ready products across **backend, web & mobile.**
 
 ## 👨‍💻 About Me
 
-I'm a software engineer focused on building and shipping **real-world products**.
-
 ⚙️ Building scalable backend systems with **.NET & Go**  
-📱 Shipping mobile applications with **React Native & Expo**  
+📱 Shipping mobile apps with **React Native & Expo**  
 🌐 Creating modern web products with **React & Next.js**  
-☁️ Running production workloads with **Docker, Kubernetes & AWS**  
-🧠 Interested in **distributed systems, architecture & AI-powered products**
+☁️ Running production workloads with **Docker, Kubernetes & AWS**
 
-I enjoy working across the entire product lifecycle — from **architecture and APIs** to **mobile/web clients, infrastructure and production**.
+I enjoy taking products from **architecture → development → deployment → production.**
 
 <br/>
 
@@ -44,7 +41,7 @@ I enjoy working across the entire product lifecycle — from **architecture and 
   <img src="https://skillicons.dev/icons?i=cs,dotnet,go" />
 </p>
 
-**Clean Architecture** · **CQRS** · **REST APIs** · **Event-Driven Systems** · **Background Workers**
+`Clean Architecture` · `CQRS` · `REST APIs` · `Event-Driven Systems`
 
 ### 🌐 Web & Mobile
 
@@ -53,18 +50,12 @@ I enjoy working across the entire product lifecycle — from **architecture and 
   <img height="48" src="https://cdn.simpleicons.org/expo" />
 </p>
 
-**React Native** · **Expo** · **TanStack Query** · **EAS** · **OTA Updates**
+`React Native` · `Expo` · `TanStack Query` · `EAS`
 
-### 🗄️ Data & Messaging
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,elasticsearch" />
-</p>
-
-### ☁️ DevOps & Infrastructure
+### 🗄️ Data & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,nginx,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,elasticsearch,docker,kubernetes,aws,gcp,githubactions,linux" />
 </p>
 
 <br/>
@@ -77,19 +68,18 @@ I enjoy working across the entire product lifecycle — from **architecture and 
 
 ### ⚙️ Backend Systems
 
-Scalable APIs, background workers, distributed systems and event-driven architectures.
+Scalable APIs, background workers and event-driven systems.
 
-`C#` `.NET` `Go` `Redis` `RabbitMQ`
+**`.NET` `Go` `Redis` `RabbitMQ`**
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📱 Mobile Apps
 
-Production mobile applications built and shipped for real users.
+Production mobile applications shipped to real users.
 
-`React Native` `Expo` `EAS`
+**`React Native` `Expo` `EAS`**
 
 </td>
 </tr>
@@ -101,17 +91,16 @@ Production mobile applications built and shipped for real users.
 
 Modern web applications, dashboards and product experiences.
 
-`React` `Next.js` `TypeScript`
+**`React` `Next.js` `TypeScript`**
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ☁️ Infrastructure
 
 Containerized applications and production infrastructure.
 
-`Docker` `Kubernetes` `AWS`
+**`Docker` `Kubernetes` `AWS`**
 
 </td>
 </tr>
@@ -123,19 +112,8 @@ Containerized applications and production infrastructure.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tahakocal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahakocal&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahakocal&theme=tokyo-night&hide_border=true&area=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tahakocal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahakocal&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -145,17 +123,7 @@ Containerized applications and production infrastructure.
 
 <div align="center">
 
-### I write about the problems I encounter while building products.
-
-⚙️ **Backend Architecture** &nbsp;·&nbsp;
-🟣 **.NET** &nbsp;·&nbsp;
-🔷 **Go** &nbsp;·&nbsp;
-📱 **React Native**
-
-🚀 **Expo** &nbsp;·&nbsp;
-⚡ **Performance** &nbsp;·&nbsp;
-☁️ **Infrastructure** &nbsp;·&nbsp;
-🧠 **System Design**
+I write about **backend architecture, .NET, Go, React Native, performance, infrastructure & system design.**
 
 <br/>
 
@@ -167,7 +135,7 @@ Containerized applications and production infrastructure.
 
 <br/>
 
-## 🌎 Find Me
+## 🌎 Connect
 
 <div align="center">
 
@@ -177,8 +145,8 @@ Containerized applications and production infrastructure.
 <a href="https://www.linkedin.com/in/tahakocal/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/tahakocal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:tahakocalgs@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/tahakocal/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -187,7 +155,5 @@ Containerized applications and production infrastructure.
 <br/><br/>
 
 ### 🚀 Building things that actually ship.
-
-**[tahakocal.dev](https://tahakocal.dev)**
 
 </div>
